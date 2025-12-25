@@ -1,0 +1,7 @@
+{
+  "name": "Grand Luxury Interactive Christmas Tree",
+  "description": "An opulent 3D Christmas tree experience using React 19, R3F, and MediaPipe hand tracking for interactive 'Chaos' and 'Formed' states.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
